@@ -17,7 +17,7 @@ cd
 
 mkdir -p MONKEY_TMP
 cd MONKEY_TMP
-wget https://github.com/MONKEYPROJECT/MonkeyV2/releases/download/v2.3.0/monkey-2.3.0-x86_64-linux-gnu.tar.gz
+wget https://github.com/decenomy/MonkeyV2/releases/download/v2.3.0/monkey-2.3.0-x86_64-linux-gnu.tar.gz
 sudo chmod 775 monkey-2.3.0-x86_64-linux-gnu.tar.gz
 tar -xvzf monkey-2.3.0-x86_64-linux-gnu.tar.gz
 
